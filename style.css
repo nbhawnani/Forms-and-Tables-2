@@ -1,0 +1,17 @@
+ table, th, td {
+  border-collapse:separate;
+  border: 2px darkblue solid;
+  
+}
+
+body{
+  text-align: center;
+}
+
+table{
+  margin:auto;
+}
+
+table.classTable{
+  empty-cells: hide;
+}
